@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on multiple game projects as a UI/UX and 3D Artist
+- 🌱 I’m currently learning C# and Unity.
+- 📫 How to reach me: theresa.schlag@gmail.com
+- 😄 Pronouns: she/her
+
+Feel free to check out my [portfolio] (https://theresa-schlag.com/). 
 
 <!--
 **picmansmodel/picmansmodel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

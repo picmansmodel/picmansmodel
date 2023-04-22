@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rese</h1>
 <h3 align="center">A passionate Game Developer and 3D Artist from Germany</h3>
 
-- 🔭 I’m currently working The Fermi Paradox [The Fermi Paradox](http://fermi-paradox.com/)
+- 🔭 I’m currently working on [The Fermi Paradox](http://fermi-paradox.com/)
 
 - 👨‍💻 All of my projects are available at [https://theresa-schlag.com/](https://theresa-schlag.com/)
 

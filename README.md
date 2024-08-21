@@ -1,18 +1,53 @@
-<h1 align="center">Hi 👋, I'm Rese</h1>
-<h3 align="center">A passionate 3D Artist, Art Director and Game Developer from Germany</h3>
+### :octopus: Hi, I'm Rese 
 
-- 🔭 I’m currently working on [The Fermi Paradox](http://fermi-paradox.com/)
+<!-- https://gist.github.com/rxaviers/7360908 -- for emoji images -->
 
-- 👨‍💻 All of my projects are available at [https://theresa-schlag.com/](https://theresa-schlag.com/)
+**`3D Artist | Art Director | Game Developer`**
 
-- 📫 How to reach me: **theresa.schlag@gmail.com**
+As a dedicated indie game developer, freelancer and tutor, I am actively engaged in a variety of projects but always eager to take on new challenges and contribute to innovative projects. If you want to push boundaries and drive progress, I´m always happy to help. :sparkles:
 
-- 📄 Know about my experiences [https://theresa-schlag.com/resume](https://theresa-schlag.com/resume)
+<br />
 
-<h3 align="left">Connect with me:</h3>
+#
+### 🧰 Tools & Languages
+
+<!-- https://devicon.dev/ -- for SVG images -->
+
+<img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />          
+<img align="left" alt="3Ds Max" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+<img align="left" alt="Maya" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
+<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Rider" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
+<img align="left" alt="VidualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+                 
+<br />
+
+#
+### :purple_heart: Latest Project
+
+<!-- Image -->
+<p align="center">
+  <img src="https://fermi-paradox.com/assets/banner-216c68d4.svg" /></a>
+
+<!-- Buttons -->
+<p align="center">
+  
+  <a href="https://fermi-paradox.com/">
+    <img alt="Webside" width="80px" style="padding-right:40px;" src="https://fermi-paradox.com/assets/anomalylogo-137631e8.png" /> 
+  
+
+<br />
+    
+#
+
+###  :dancers: Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/theresaschlag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/theresaschlag/" height="30" width="40" /></a>
+  
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>

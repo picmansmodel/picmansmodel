@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://s12.gifyu.com/images/Sostb.gif" /></a>
+
+
 ### :octopus: Hi, I'm Rese 
 
 <!-- https://gist.github.com/rxaviers/7360908 -- for emoji images -->
 
 **`3D Artist | Art Director | Game Developer`**
 
-As a dedicated indie game developer, freelancer and tutor, I am actively engaged in a variety of projects but always eager to take on new challenges and contribute to innovative projects. If you want to push boundaries and drive progress, I´m always happy to help. :sparkles:
+As a dedicated indie game developer, freelancer and tutor, I am actively engaged in a variety of projects but always eager to learn and take on new challenges and contribute to innovative projects. If you want to push boundaries and drive progress, I´m always happy to help. :sparkles:
 
 <br />
 
@@ -45,7 +49,7 @@ As a dedicated indie game developer, freelancer and tutor, I am actively engaged
     
 #
 
-###  :dancers: Connect with me:
+###  :information_desk_person: Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/theresaschlag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/theresaschlag/" height="30" width="40" /></a>

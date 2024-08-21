@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://s12.gifyu.com/images/Sostb.gif" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monserat&weight=500&size=25&duration=4000&pause=1005&color=CD14BC&center=true&vCenter=true&width=435&lines=Welcome;lets+push+things+forward" alt="Typing SVG" /></a>
 
 
 ### :octopus: Hi, I'm Rese 
@@ -12,7 +12,7 @@ As a dedicated indie game developer, freelancer and tutor, I am actively engaged
 
 <br />
 
-#
+
 ### 🧰 Tools & Languages
 
 <!-- https://devicon.dev/ -- for SVG images -->
@@ -49,9 +49,15 @@ As a dedicated indie game developer, freelancer and tutor, I am actively engaged
     
 #
 
-###  :information_desk_person: Connect with me:
+###  :pizza: Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/theresaschlag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/theresaschlag/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/theresaschlag/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/%20LinkedIn%20-CD14BC" /> 
+  <a href="https://theresa-schlag.com/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/%20Portfolio%20-CD14BC" /> 
+  <a href="https://www.instagram.com/picmansmodel/">
+    <img alt="Instagram" src="https://img.shields.io/badge/%20Instagram%20-CD14BC" /> 
+    
   
 </p>

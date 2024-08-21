@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rese</h1>
-<h3 align="center">A passionate Game Developer and 3D Artist from Germany</h3>
+<h3 align="center">A passionate 3D Artist, Art Director and Game Developer from Germany</h3>
 
 - 🔭 I’m currently working on [The Fermi Paradox](http://fermi-paradox.com/)
 

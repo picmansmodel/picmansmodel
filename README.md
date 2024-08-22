@@ -1,5 +1,10 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg -- for typwriter text -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monserat&weight=500&size=25&duration=4000&pause=1005&color=CD14BC&center=true&vCenter=true&width=435&lines=Welcome;lets+push+things+forward" alt="Typing SVG" /></a>
+  <!-- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -- for implementing gifs -->
+  <img align="right" alt="Gif" src="https://github.com/picmansmodel/picmansmodel/blob/main/ezgif.com-effects.gif?raw=true" width="200" />
+
+
 
 
 ### :octopus: Hi, I'm Rese 
@@ -8,7 +13,9 @@
 
 **`3D Artist | Art Director | Game Developer`**
 
-As a dedicated indie game developer, freelancer and tutor, I am actively engaged in a variety of projects but always eager to learn and take on new challenges and contribute to innovative projects. If you want to push boundaries and drive progress, I´m always happy to help. :sparkles:
+As a dedicated indie game developer, freelancer and tutor, I am actively engaged in various projects but always eager to learn, take on new challenges and contribute to innovative ideas. 
+<br />
+If you want to push boundaries and drive progress, I´m always happy to help. :sparkles:
 
 <br />
 

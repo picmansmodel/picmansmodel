@@ -8,15 +8,18 @@
 
 
 ### :octopus: Hi, I'm Rese 
+<br />
 
 <!-- https://gist.github.com/rxaviers/7360908 -- for emoji images -->
 
 **`3D Artist | Art Director | Game Developer`**
+<br />
 
 As a dedicated indie game developer, freelancer and tutor, I am actively engaged in various projects but always eager to learn, take on new challenges and contribute to innovative ideas. 
 <br />
 If you want to push boundaries and drive progress, I´m always happy to help. :sparkles:
 
+<br />
 <br />
 
 

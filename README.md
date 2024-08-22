@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monserat&weight=500&size=25&duration=4000&pause=1005&color=CD14BC&center=true&vCenter=true&width=435&lines=Welcome;lets+push+things+forward" alt="Typing SVG" /></a>
   <!-- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -- for implementing gifs -->
-  <img align="right" alt="Gif" src="https://github.com/picmansmodel/picmansmodel/blob/main/ezgif.com-effects.gif?raw=true" width="200" />
+  <img align="right" alt="Gif" src="https://github.com/picmansmodel/picmansmodel/blob/main/FlipPhone.gif?raw=true" width="200" />
 
 
 

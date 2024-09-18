@@ -48,7 +48,7 @@ If you want to push boundaries and drive progress, I´m always happy to help. :s
 
 <!-- Image -->
 <p align="center">
-  <img src="https://fermi-paradox.com/assets/banner-216c68d4.svg" /></a>
+  <img src="https://github.com/picmansmodel/picmansmodel/blob/main/FermiHeaderBbackground.PNG" /></a>
 
 <!-- Buttons -->
 <p align="center">

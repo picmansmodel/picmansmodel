@@ -12,7 +12,7 @@
 
 <!-- https://gist.github.com/rxaviers/7360908 -- for emoji images -->
 
-**`3D Artist | Game Developer | Art Director`**
+**`3D Art | Game Development | Art Direction`**
 <br />
 
 As a dedicated indie game developer, freelancer and tutor, I am actively engaged in various projects 

@@ -32,6 +32,7 @@ Always happy to lern something and to help. :sparkles:
 
 ### 🧰 Tools & Languages
 
+<br />
 <!-- Icons -->
 <!-- https://devicon.dev/ -- for SVG images -->
 
@@ -65,8 +66,7 @@ Always happy to lern something and to help. :sparkles:
   <!-- Bloddletter -->
 <p align="center">
   <!-- Gif -->
-  <img src="https://github.com/picmansmodel/picmansmodel/blob/main/FermiHeaderBbackground.PNG" /></a>
-  <img align="center" alt="Gif" src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/BloodletterWave.gif?raw=true" width="200" />
+  <img align="center" width="1080px"alt="Gif" src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/BloodletterWave.gif?raw=true" width="200" /></a>
 </p>
 
 #

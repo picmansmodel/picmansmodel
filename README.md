@@ -1,10 +1,13 @@
-
+<!-- SYNTAX -->
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -- for syntax -->
 
+
+<!-- Typewriter -->
 <!-- https://github.com/DenverCoder1/readme-typing-svg -- for typwriter text -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monserat&weight=500&size=25&duration=4000&pause=1005&color=CD14BC&center=true&vCenter=true&width=435&lines=Welcome;lets+push+things+forward" alt="Typing SVG" /></a>
 
+<!-- GIF -->
   <!-- https://www.3dgifmaker.com/Glitch -- create gifs -->
   <!-- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub -- for implementing gifs -->
   <img align="right" alt="Gif" src="https://github.com/picmansmodel/picmansmodel/blob/main/FlipPhone.gif?raw=true" width="200" />
@@ -64,7 +67,7 @@ If you want to push boundaries and drive progress, I´m always happy to help. :s
 
 <br />
 <p align="center">
- <alt="Gif" src=" https://github.com/picmansmodel/picmansmodel/blob/main/BloodletterWave.gif" />
+ <alt="Gif" src=" https://github.com/picmansmodel/picmansmodel/blob/main/BloodletterWave.gif?raw=true" />
 
 <br />
     

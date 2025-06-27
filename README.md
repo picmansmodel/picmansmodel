@@ -59,7 +59,7 @@ If you want to push boundaries and drive progress, I´m always happy to help. :s
 
 <br />
 <p align="center">
-  <link src="https://www.artstation.com/embed/82294664" /></a>
+  <embed src="https://www.artstation.com/embed/82294664" /></a>
 <br />
     
 #

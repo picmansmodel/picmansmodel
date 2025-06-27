@@ -57,18 +57,21 @@ Always happy to lern something and to help. :sparkles:
   <!-- Image -->
   <a href="https://fermi-paradox.com/">
     <img src="https://github.com/picmansmodel/picmansmodel/blob/main/FermiHeaderBbackground.PNG" /></a>
-  <br />
+<br />
 
+<p align="center">
   <!-- Buttons -->
   <a href="https://fermi-paradox.com/">
     <img alt="Webside" width="80px" style="padding-right:40px;" src="https://fermi-paradox.com/assets/anomalylogo-137631e8.png" /></a> 
-</p>
+<br />
+
 #
+
   <!-- Bloddletter -->
 <p align="center">
   <!-- Gif -->
   <a href="https://www.artstation.com/embed/82294664">
-    <img align="center" alt="Gif" src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/BloodletterWave.gif?raw=true" width="200" /></a>
+    <img align="center" width="1080px" alt="Gif" src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/BloodletterWave.gif?raw=true" width="200" /></a>
 </p>
 
 #

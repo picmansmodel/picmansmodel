@@ -18,7 +18,7 @@
 
 ### :octopus: Hi, I'm Rese 
 <br />
-** ' Art Direction | 3D Art | Game Development ' **
+**Art Direction | 3D Art | Game Development**
 <br />
 
 I´m a indie game developer and freelancer from Berlin, Germany.
@@ -58,17 +58,17 @@ Always happy to lern something and to help. :sparkles:
   <a href="https://fermi-paradox.com/">
     <img src="https://github.com/picmansmodel/picmansmodel/blob/main/FermiHeaderBbackground.PNG" /></a>
   <br />
+
   <!-- Buttons -->
   <a href="https://fermi-paradox.com/">
     <img alt="Webside" width="80px" style="padding-right:40px;" src="https://fermi-paradox.com/assets/anomalylogo-137631e8.png" /></a> 
 </p>
-
 #
-
   <!-- Bloddletter -->
 <p align="center">
   <!-- Gif -->
-  <img align="center" width="1080px"alt="Gif" src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/BloodletterWave.gif?raw=true" width="200" /></a>
+  <a href="https://www.artstation.com/embed/82294664">
+    <img align="center" alt="Gif" src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/BloodletterWave.gif?raw=true" width="200" /></a>
 </p>
 
 #

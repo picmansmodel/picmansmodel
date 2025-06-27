@@ -53,19 +53,14 @@ Always happy to lern somezhing and to help. :sparkles:
 ### :purple_heart: Latest Project
 
 <p align="center">
-
-<!-- Image -->
+  <!-- Image -->
   <img src="https://github.com/picmansmodel/picmansmodel/blob/main/FermiHeaderBbackground.PNG" /></a>
-
-<!-- Buttons -->
+  <!-- Buttons -->
   <a href="https://fermi-paradox.com/">
     <img alt="Webside" width="80px" style="padding-right:40px;" src="https://fermi-paradox.com/assets/anomalylogo-137631e8.png" /> 
-
-  <br />
-  
+  <br /> 
 <!-- Gif -->
  <img align="center" alt="Gif" src="https://github.com/picmansmodel/picmansmodel/blob/main/BloodletterWave.gif?raw=true" width="200" />
-
 </p>
 
 #

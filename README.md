@@ -1,6 +1,3 @@
-<!-- SYNTAX -->
-<!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -- for syntax -->
-
 
 <!-- Typewriter -->
 <!-- https://github.com/DenverCoder1/readme-typing-svg -- for typwriter text -->
@@ -14,27 +11,29 @@
 
 
 
+<!-- Emojis -->
+<!-- https://gist.github.com/rxaviers/7360908 -- for emoji images -->
+
+<!-- SYNTAX -->
+<!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -- for syntax -->
 
 ### :octopus: Hi, I'm Rese 
 <br />
-
-<!-- https://gist.github.com/rxaviers/7360908 -- for emoji images -->
-
-**`3D Art | Game Development | Art Direction`**
+**` Art Direction | 3D Art | Game Development `**
 <br />
 
-As a dedicated indie game developer, freelancer and tutor, I am actively engaged in various projects 
+I´m a indie game developer and freelancer from Berlin, Germany.
 <br />
-but always eager to learn, take on new challenges and contribute to innovative ideas. 
+Taking on new challenges and contributing to innovative ideas are my favorite type of work.
 <br />
-If you want to push boundaries and drive progress, I´m always happy to help. :sparkles:
-
+Always happy to lern somezhing and to help. :sparkles:
 <br />
 <br />
 
 
 ### 🧰 Tools & Languages
 
+<!-- Icons -->
 <!-- https://devicon.dev/ -- for SVG images -->
 
 <img align="left" alt="Blender" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />          
@@ -45,43 +44,39 @@ If you want to push boundaries and drive progress, I´m always happy to help. :s
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Rider" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
 <img align="left" alt="VidualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-                 
 <br />
 
 #
+
 ### :purple_heart: Latest Project
 
-<!-- Image -->
 <p align="center">
+
+<!-- Image -->
   <img src="https://github.com/picmansmodel/picmansmodel/blob/main/FermiHeaderBbackground.PNG" /></a>
 
 <!-- Buttons -->
-<p align="center">
-  
   <a href="https://fermi-paradox.com/">
     <img alt="Webside" width="80px" style="padding-right:40px;" src="https://fermi-paradox.com/assets/anomalylogo-137631e8.png" /> 
+
+  <br />
   
+<!-- Gif -->
+ <img align="center" alt="Gif" src="https://github.com/picmansmodel/picmansmodel/blob/main/BloodletterWave.gif?raw=true" width="200" />
 
-<br />
-<p align="center">
- <alt="Gif" src=" https://github.com/picmansmodel/picmansmodel/blob/main/BloodletterWave.gif?raw=true" />
+</p>
 
-<br />
-    
 #
 
 ###  :pizza: Connect with me:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/theresaschlag/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/%20LinkedIn%20-CD14BC" /> 
   <a href="https://theresa-schlag.com/">
     <img alt="Portfolio" src="https://img.shields.io/badge/%20Portfolio%20-CD14BC" /> 
   <a href="https://www.instagram.com/picmansmodel/">
-    <img alt="Instagram" src="https://img.shields.io/badge/%20Instagram%20-CD14BC" /> 
-    
-  
+    <img alt="Instagram" src="https://img.shields.io/badge/%20Instagram%20-CD14BC" />   
 </p>

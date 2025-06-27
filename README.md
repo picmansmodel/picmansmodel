@@ -17,10 +17,11 @@
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -- for syntax -->
 
 ### :octopus: Hi, I'm Rese 
+
 <br />
 **Art Direction | 3D Art | Game Development**
 <br />
-
+<br />
 I´m a indie game developer and freelancer from Berlin, Germany.
 <br />
 Taking on new challenges and contributing to innovative ideas are my favorite type of work.
@@ -50,7 +51,7 @@ Always happy to lern something and to help. :sparkles:
 
 #
 
-### :purple_heart: Latest Project
+### :purple_heart: Latest Projects
 
   <!-- Fermi Paradox -->
 <p align="center">
@@ -72,7 +73,10 @@ Always happy to lern something and to help. :sparkles:
   <!-- Gif -->
   <a href="https://www.artstation.com/embed/82294664">
     <img align="center" width="1080px" alt="Gif" src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/BloodletterWave.gif?raw=true" width="200" /></a>
-</p>
+
+<p align="center">
+ <a text="**BLOODLETTER** Borderlands Fan Art ">
+
 
 #
 

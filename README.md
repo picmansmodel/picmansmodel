@@ -53,6 +53,8 @@ Always eager to learn, grow, and lend a helping hand along the way. :sparkles:
 
 ### :purple_heart: Latest Projects
 
+Click on the images for more information.
+
   <!-- Fermi Paradox -->
 <p align="center">
   <!-- Image -->

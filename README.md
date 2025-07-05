@@ -63,19 +63,22 @@ Always eager to learn, grow, and lend a helping hand along the way. :sparkles:
 #
 
   <!-- Bloddletter -->
-  <!-- MP4 CONVERTER INTO LOTTIE -->
+
+  <!-- MP4 CONVERTER INTO LOTTIE IS ONLY FOR WEBSIDES-->
   <!-- https://observablehq.com/@forresto/video-to-lottie -- converter -->
   <!-- https://github.com/LottieFiles/lottie-player/blob/master/README.md -- hwo to use -->
+  <!-- GET LOTTIE PLAYER -->
+  <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@1/dist/lottie-player.js"></script>-->
+  <!-- <lottie-player src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/Bloodletter-moshed-07-05-17-02-08-835.mp4.lottie.json"  background="transparent"  speed="1"  loop  autoplay></lottie-player></a>-->
+
+<p align="center">
+  <a href="https://www.artstation.com/embed/82294664">
+  <img alt="Gif" src="https://github.com/picmansmodel/picmansmodel/blob/main/Bloodletter-moshed-07-05-18-12-10-893.gif?raw=true" />
+<br />
+
 
   <!-- EMBED VIDEO -->
   <!-- https://github.com/nathancy/jekyll-embed-video -- FOR GIT HUB -->
-<p align="center">
-  <!-- GET LOTTIE PLAYER -->
-  <a href="https://www.artstation.com/embed/82294664">
-  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-  <!--<script src="https://unpkg.com/@lottiefiles/lottie-player@1/dist/lottie-player.js"></script>-->
-  <lottie-player src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/Bloodletter-moshed-07-05-17-02-08-835.mp4.lottie.json"  background="transparent"  speed="1"  loop  autoplay></lottie-player></a>
-<br />
 </p>
 
 

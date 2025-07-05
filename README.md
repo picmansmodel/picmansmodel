@@ -22,11 +22,11 @@
 **`Art Direction | 3D Art | Game Development`**
 <br />
 <br />
-I´m a indie game developer and freelancer from Berlin, Germany.
+I’m an indie game developer and freelancer based in Berlin, Germany. 
 <br />
-Taking on new challenges and contributing to innovative ideas are my favorite type of work.
+I love diving into new challenges and bringing fresh, creative ideas to life.
 <br />
-Happy to lern and to help along the way. :sparkles:
+Always eager to learn, grow, and lend a helping hand along the way. :sparkles:
 <br />
 <br />
 

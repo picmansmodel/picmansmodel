@@ -73,7 +73,7 @@ Always eager to learn, grow, and lend a helping hand along the way. :sparkles:
 
 <p align="center">
   <a href="https://www.artstation.com/embed/82294664">
-  <img alt="Gif" src="https://github.com/picmansmodel/picmansmodel/blob/main/Bloodletter-moshed-07-05-18-12-10-893.gif?raw=true" />
+  <img alt="Gif" src="https://github.com/picmansmodel/picmansmodel/blob/main/Bloodletter-moshed-07-05-18-12-10-893.gif?raw=true" /></a>
 <br />
 
 

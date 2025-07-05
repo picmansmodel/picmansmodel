@@ -60,12 +60,6 @@ Always eager to learn, grow, and lend a helping hand along the way. :sparkles:
     <img src="https://github.com/picmansmodel/picmansmodel/blob/main/FermiHeaderBbackground.PNG" /></a>
 <br />
 
-<p align="center">
-  <!-- Buttons -->
-  <a href="https://fermi-paradox.com/">
-    <img alt="Webside" width="80px" style="padding-right:40px;" src="https://fermi-paradox.com/assets/anomalylogo-137631e8.png" /></a> 
-<br />
-
 #
 
   <!-- Bloddletter -->
@@ -74,8 +68,6 @@ Always eager to learn, grow, and lend a helping hand along the way. :sparkles:
   <a href="https://www.artstation.com/embed/82294664">
     <img align="center" width="1080px" alt="Gif" src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/BloodletterWave.gif?raw=true" width="200" /></a>
 
-<p align="center">
- <a text="**BLOODLETTER** Borderlands Fan Art ">
 
 
 #

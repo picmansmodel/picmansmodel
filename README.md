@@ -61,7 +61,6 @@ Always eager to learn, grow, and lend a helping hand along the way. :sparkles:
 <br />
 
 #
-
   <!-- Bloddletter -->
 
   <!-- MP4 CONVERTER INTO LOTTIE IS ONLY FOR WEBSIDES-->
@@ -71,14 +70,27 @@ Always eager to learn, grow, and lend a helping hand along the way. :sparkles:
   <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@1/dist/lottie-player.js"></script>-->
   <!-- <lottie-player src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/Bloodletter-moshed-07-05-17-02-08-835.mp4.lottie.json"  background="transparent"  speed="1"  loop  autoplay></lottie-player></a>-->
 
+  <!-- EMBED VIDEO IS ONLY FOR WEBSIDES -->
+  <!-- https://github.com/nathancy/jekyll-embed-video -- FOR GIT HUB -->
+
 <p align="center">
   <a href="https://www.artstation.com/embed/82294664">
+  <!-- GIF -->
   <img alt="Gif" src="https://github.com/picmansmodel/picmansmodel/blob/main/Bloodletter-moshed-07-05-18-12-10-893.gif?raw=true" /></a>
 <br />
 
+#
+  <!-- THE GREAT LA ZAAR -->
 
   <!-- EMBED VIDEO -->
   <!-- https://github.com/nathancy/jekyll-embed-video -- FOR GIT HUB -->
+<p align="center">
+  <!-- Image -->
+  <a href="https://picmansmodel.itch.io/the-great-la-zaar">
+    <img src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/PZHeaderBbackground.PNG" /></a>
+<br />
+
+
 </p>
 
 

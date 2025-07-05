@@ -14,19 +14,20 @@
 <!-- https://gist.github.com/rxaviers/7360908 -- for emoji images -->
 
 <!-- SYNTAX -->
+<!-- https://github.com/darsaveli/Readme-Markdown-Syntax -- for syntax -->
 <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -- for syntax -->
 
 ### :octopus: Hi, I'm Rese 
 
 <br />
-**Art Direction | 3D Art | Game Development**
+**`Art Direction | 3D Art | Game Development`**
 <br />
 <br />
 I´m a indie game developer and freelancer from Berlin, Germany.
 <br />
 Taking on new challenges and contributing to innovative ideas are my favorite type of work.
 <br />
-Always happy to lern something and to help. :sparkles:
+Happy to lern and to help along the way. :sparkles:
 <br />
 <br />
 
@@ -82,6 +83,8 @@ Always happy to lern something and to help. :sparkles:
 
 ###  :pizza: Connect with me:
 
+<!-- BADGES -->
+<!-- https://shields.io/badges -- for Badge images -->
 <p align="left">
   <a href="https://www.linkedin.com/in/theresaschlag/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/%20LinkedIn%20-CD14BC" /> 

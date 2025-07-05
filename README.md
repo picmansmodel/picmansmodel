@@ -66,7 +66,9 @@ Always eager to learn, grow, and lend a helping hand along the way. :sparkles:
 <p align="center">
   <!-- Gif -->
   <a href="https://www.artstation.com/embed/82294664">
-    <img align="center" width="1080px" alt="Gif" src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/BloodletterWave.gif?raw=true" width="200" /></a>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@1/dist/lottie-player.js"></script>
+    <lottie-player src="https://github.com/picmansmodel/picmansmodel/blob/main/Bloodletter-moshed-07-05-17-02-08-835.mp4.lottie.json"  background="transparent"  speed="1"  loop  autoplay></lottie-player></a>
+<br />
 
 
 

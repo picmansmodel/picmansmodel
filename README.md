@@ -19,9 +19,7 @@
 
 ### :octopus: Hi, I'm Rese 
 
-<br />
 **`Art Direction | 3D Art | Game Development`**
-`linux`
 <br />
 <br />
 I´m a indie game developer and freelancer from Berlin, Germany.

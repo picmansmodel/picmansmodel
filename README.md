@@ -64,17 +64,6 @@ Click on the images for more information.
 
 #
   <!-- Bloddletter -->
-
-  <!-- MP4 CONVERTER INTO LOTTIE IS ONLY FOR WEBSIDES-->
-  <!-- https://observablehq.com/@forresto/video-to-lottie -- converter -->
-  <!-- https://github.com/LottieFiles/lottie-player/blob/master/README.md -- hwo to use -->
-  <!-- GET LOTTIE PLAYER -->
-  <!-- <script src="https://unpkg.com/@lottiefiles/lottie-player@1/dist/lottie-player.js"></script>-->
-  <!-- <lottie-player src="https://raw.githubusercontent.com/picmansmodel/picmansmodel/refs/heads/main/Bloodletter-moshed-07-05-17-02-08-835.mp4.lottie.json"  background="transparent"  speed="1"  loop  autoplay></lottie-player></a>-->
-
-  <!-- EMBED VIDEO IS ONLY FOR WEBSIDES -->
-  <!-- https://github.com/nathancy/jekyll-embed-video -- FOR GIT HUB -->
-
 <p align="center">
   <a href="https://www.artstation.com/embed/82294664">
   <!-- GIF -->
@@ -83,9 +72,6 @@ Click on the images for more information.
 
 #
   <!-- THE GREAT LA ZAAR -->
-
-  <!-- EMBED VIDEO -->
-  <!-- https://github.com/nathancy/jekyll-embed-video -- FOR GIT HUB -->
 <p align="center">
   <!-- Image -->
   <a href="https://picmansmodel.itch.io/the-great-la-zaar">

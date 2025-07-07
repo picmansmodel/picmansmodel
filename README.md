@@ -63,7 +63,7 @@ Click on the images for more information.
 <br />
 
 #
-  <!-- Bloddletter -->
+  <!-- Bloodletter -->
 <p align="center">
   <a href="https://www.artstation.com/embed/82294664">
   <!-- GIF -->

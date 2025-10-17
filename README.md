@@ -91,7 +91,7 @@ Click on the images for more information.
 <p align="left">
   <a href="https://www.linkedin.com/in/theresaschlag/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/%20LinkedIn%20-CD14BC" /> 
-  <a href="https://theresa-schlag.com/">
+  <a href="https://picmansmodel.artstation.com/">
     <img alt="Portfolio" src="https://img.shields.io/badge/%20Portfolio%20-CD14BC" /> 
   <a href="https://www.instagram.com/picmansmodel/">
     <img alt="Instagram" src="https://img.shields.io/badge/%20Instagram%20-CD14BC" />   
